@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi 👋, I'm Brett
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img  height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+
+
+
+
+
+* :technologist: Entry-level data scientist with a passion for data manipulation, visualization, and statistics
+
+* 🗣 Languages: Python - R - MySQL - Java - JavaScript - MATLAB
+
+* 📫 You can reach me at bscheib99@gmail.com
 
 <!--
 **brettscheib/brettscheib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
