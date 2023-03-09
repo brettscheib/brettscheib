@@ -8,7 +8,7 @@
 
 
 
-* :technologist: Entry-level data scientist with a passion for data manipulation, visualization, and statistics
+* :technologist: Entry-level data scientist and biochemist with a passion for data manipulation, visualization, and statistics
 
 * 🗣 Languages: Python - R - MySQL - Java - JavaScript - MATLAB
 
